@@ -4,11 +4,11 @@
 
 # Hi there, I'm Glen Ochieng' 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+am an Informatics and Computer Science student at Strathmore University with a deep passion for blending full-stack web development with intelligent, data-driven solutions. I thrive on solving complex, real-world problems by building scalable applications and leveraging machine learning to extract actionable insights, particularly in areas like sports data analysis and community networking.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** I am currently developing "Daraja Connect," a machine learning model dedicated to fostering mentorship matching using cosine similarity between current Kenya Airways staff, Pride Centre alumni, and former employees.
+- 🌱 **Learning & Exploration:** I am actively deepening my understanding of advanced machine learning techniques, specifically focusing on Lasso and Ridge regularization, and K-Means clustering using Scikit-learn. In the web development ecosystem, I am continuously refining my proficiency with Angular, Node.js, and MongoDB to build robust backends and dynamic interfaces.
+- ⚡ **Core Interests:** Data Science, Machine Learning, Full-Stack Web Development
 
 ---
 
